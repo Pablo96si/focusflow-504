@@ -1,0 +1,23 @@
+{
+ "name": "Focus Flow 504",
+ "short_name": "504",
+ "description": "a 504 plan tracker for parents: every accommodation and whether it is actually happening, a dated log of every email and call with the school, meeting prep with your questions, progress notes per term, and a one-page summary the teacher can keep. Your child's records stay on your device.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#FAF7F2",
+ "theme_color": "#FAF7F2",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
